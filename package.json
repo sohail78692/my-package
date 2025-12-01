@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sohail78692/my-package",
-    "homepage": "https://github.com/sohail78692/my-package/blob/main/README.md"
+    "url": "https://github.com/sohail78692/my-package"
   },
+  "homepage": "https://github.com/sohail78692/my-package/blob/main/README.md",
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.6.2",
