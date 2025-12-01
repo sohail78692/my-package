@@ -1,6 +1,6 @@
 {
   "name": "hello-sohail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful CLI business card for Sohail Akhtar - Full Stack Developer",
   "main": "index.js",
   "scripts": {
