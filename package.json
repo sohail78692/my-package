@@ -22,7 +22,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sohail78692/portfolio-card"
+    "url": "https://github.com/sohail78692/my-package",
+    "homepage": "https://github.com/sohail78692/my-package/blob/main/README.md"
   },
   "dependencies": {
     "boxen": "^8.0.1",
